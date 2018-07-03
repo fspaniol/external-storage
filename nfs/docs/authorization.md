@@ -6,7 +6,7 @@ If you chose to run the provisioner in Kubernetes you may need to grant it autho
 
 Find out what authorization plugin or policy implementation your cluster uses, if any, and follow one of the below sections.
 
-* [PSP and/or RBAC](#rbac)
+* [PSP and/or RBAC](#psp-andor-rbac)
 * [OpenShift](#openshift)
 
 ## PSP and/or RBAC
